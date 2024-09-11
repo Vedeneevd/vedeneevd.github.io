@@ -1,6 +1,6 @@
 # Портфолио [Веденеев Дмитрий]
 
-![]([https://i.ibb.co/FYcddXF/DSCF2225-photoaidcom-cropped.png](https://i.ibb.co/k1PXYqr/DSCF2225-photoaidcom-cropped.jpg))
+<a href="https://ibb.co/Kw8WCVQ"><img src="https://i.ibb.co/fvTHmrK/DSCF2225-photoaidcom-cropped.jpg" alt="DSCF2225-photoaidcom-cropped" border="0" /></a>
 
 ## О себе
  Большинство хороших программистов делают свою работу не потому, что ожидают оплаты или признания, а потому что получают удовольствие от программирования.
